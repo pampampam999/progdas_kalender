@@ -1,4 +1,4 @@
-# progdas_kalender
+# Software Pencari Weton CLI
 Dibuat dengan Visual Studio 2013
 Project UAS Smester 1,kalender dengan weton dan zodiak.
 
